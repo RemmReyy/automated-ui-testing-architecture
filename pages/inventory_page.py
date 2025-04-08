@@ -22,5 +22,5 @@ class InventoryPage(BasePage):
     def open_product(self, product_id):
         self.page.click(f'#item_{product_id}_title_link')
 
-    def add_to_cart(self, product_id):
-        self.page.click(f'#add-to-cart-sauce-labs-{product_id}')
+    def add_to_cart(self, product_name):
+        self.page.click(f'#add-to-cart-sauce-labs-{product_name}')

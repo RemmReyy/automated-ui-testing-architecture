@@ -16,7 +16,7 @@ class SauceDemoFacade:
         self.login_page.navigate()
         self.login_page.login(username, password)
         self.inventory_page.open_product(product_id)
-        self.page.click('#add-to-cart-sauce-labs-backpack')
+        self.page.click('button[id^="add-to-cart"]')
 
     def complete_checkout(self, first_name, last_name, postal_code):
         self.cart_page.navigate()
