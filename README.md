@@ -1,17 +1,4 @@
-# automated-ui-testing-architecture
 
----
-
-## 🧰 **Tech Stack**
-
-- **Playwright for Python** – бібліотека для автоматизації браузера
-- **Python** – мова програмування для написання тестів
-
----
-
-Ось оновлений повний README:
-
-```markdown
 # Automated UI Testing Architecture with Playwright for Python
 
 This project demonstrates the implementation of software design patterns and architectural approaches in automated UI testing using [Playwright for Python](https://playwright.dev/python/).
