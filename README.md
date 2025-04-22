@@ -31,7 +31,7 @@ To explore and apply design patterns commonly used in automated UI testing, impr
 
 ### 1. Clone the repo:
 ```bash
-git clone https://github.com/RemmReyy/test_lab_7.git
+git clone https://github.com/RemmReyy/automated-ui-testing-architecture.git
 ```
 
 ### 2. Install dependencies:
